@@ -4,6 +4,6 @@ This project was motivated by the tediousness of having to re-synthesize an enti
 
 By integrating a programming module onto the OTTER, we can access the memory directly, and overwrite the contents with the help of a microcontroller. This project uses the NUCLEO-L476RG board to do exactly that, and can over-write memory at a data rate of 1.65 MB/s! (Megabytes!).
 
-Refer the to file "OTTER Programmer Procedure" for a step-by-step breakdown on how to set everything up.
+Refer the to file "OTTER_Programmer_Procedure.pdf" for a step-by-step breakdown on how to set everything up.
 
 Happy programming!
